@@ -114,3 +114,16 @@ zsdoc/data
 !/tests/_output/.gitkeep
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,vim,terraform,zsh
+
+# QEMU VM disk images and ISOs
+environments/qemu/images/
+
+# Secrets, private keys, and environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+
+

@@ -5,8 +5,6 @@ This repo creates a lab of virtual machines and a virtual network to use as a sa
 
 Over time, I'll work to implement lab environments based on several technologies (qemu, Windows Hyper-V, etc.)
 
-
-
 ## Environments
 - [QEMU](docs/qemu.md) - Open source machine emulator and virtualizer
 - [Hyper-V](docs/hyper-v.md) - Microsoft's hardware virtualization product
